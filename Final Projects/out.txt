@@ -1,0 +1,8 @@
+type a vertex between 0 and 7:
+Cast Member: 3
+Movies:
+c
+Enter the name of the first actor/director: Enter the name of the second actor/director: 
+Length of Path: 2
+
+b

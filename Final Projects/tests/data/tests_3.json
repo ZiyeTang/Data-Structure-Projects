@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Red",
+    "director": "Al Capone",
+    "cast": "Jerry Seinfeld"
+  },
+  {
+    "title": "Orange",
+    "director": "Carl Evans, Jerry Seinfeld",
+    "cast": "Al Capone"
+  },
+  {
+    "title": "Yellow",
+    "director": "Jeff Kim, Orange",
+    "cast": "Claude Monet"
+  },
+  {
+    "title": "Green",
+    "director": "Claude Monet",
+    "cast": "Jerry Seinfeld, Jeff Kim"
+  },
+  {
+    "title": "Garfield 2; Tale of Two Kitties",
+    "director": "George",
+    "cast": "Steve Martin"
+  }
+]

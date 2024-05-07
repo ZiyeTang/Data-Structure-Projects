@@ -1,0 +1,8 @@
+numbers are actors and letters are movies/shows
+Movies/shows are in () below
+
+6 to 8: 6->(f or i)->7->(b)->0->(a)->8, 3
+3 to 0: 3->(c)->2->(g)->1->(b)->0, 3
+4 to 7: 4->(e)->1->(b)->7, 2
+0 to 4: 0->(b)->1->(e)->4, 2
+8 to 3: 8->(a)->0->(b)->1->(g)->2->(c)->3, 4
